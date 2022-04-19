@@ -8,7 +8,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 
 public class SetupTestUsers {
-//hej
+
   public static void main(String[] args) {
 
     EntityManagerFactory emf = EMF_Creator.createEntityManagerFactory();
